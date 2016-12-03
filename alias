@@ -1,0 +1,2 @@
+alias "crsh_regular" "cl_crosshairstyle 4;cl_crosshaircolor 4;cl_crosshairsize 3;cl_crosshairthickness 0.5;cl_crosshairdot 0"
+alias "crsh_pistol" "cl_crosshairstyle 4;cl_crosshaircolor 4;cl_crosshairsize 0;cl_crosshairthickness 1; cl_crosshairdot 1"
